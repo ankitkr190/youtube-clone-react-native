@@ -9,7 +9,6 @@ export default function Header() {
   return (
     <View
       style={{
-        marginTop: Constant.statusBarHeight,
         height: 45,
         backgroundColor: "white",
         flexDirection: "row",
